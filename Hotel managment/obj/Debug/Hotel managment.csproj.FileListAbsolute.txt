@@ -1,0 +1,18 @@
+C:\Users\Castro\source\repos\Hotel managment\Hotel managment\bin\Debug\Hotel managment.exe.config
+C:\Users\Castro\source\repos\Hotel managment\Hotel managment\bin\Debug\Hotel managment.exe
+C:\Users\Castro\source\repos\Hotel managment\Hotel managment\bin\Debug\Hotel managment.pdb
+C:\Users\Castro\source\repos\Hotel managment\Hotel managment\bin\Debug\Guna.UI2.dll
+C:\Users\Castro\source\repos\Hotel managment\Hotel managment\obj\Debug\Hotel managment.csproj.AssemblyReference.cache
+C:\Users\Castro\source\repos\Hotel managment\Hotel managment\obj\Debug\Hotel_managment.Form1.resources
+C:\Users\Castro\source\repos\Hotel managment\Hotel managment\obj\Debug\Hotel_managment.Properties.Resources.resources
+C:\Users\Castro\source\repos\Hotel managment\Hotel managment\obj\Debug\Hotel managment.csproj.GenerateResource.cache
+C:\Users\Castro\source\repos\Hotel managment\Hotel managment\obj\Debug\Hotel managment.csproj.CoreCompileInputs.cache
+C:\Users\Castro\source\repos\Hotel managment\Hotel managment\obj\Debug\Hotel managment.csproj.CopyComplete
+C:\Users\Castro\source\repos\Hotel managment\Hotel managment\obj\Debug\Hotel managment.exe
+C:\Users\Castro\source\repos\Hotel managment\Hotel managment\obj\Debug\Hotel managment.pdb
+C:\Users\Castro\source\repos\Hotel managment\Hotel managment\obj\Debug\Hotel_managment.Dashboard.resources
+C:\Users\Castro\source\repos\Hotel managment\Hotel managment\obj\Debug\Hotel_managment.all_user_control.UC_AddRoom.resources
+C:\Users\Castro\source\repos\Hotel managment\Hotel managment\obj\Debug\Hotel_managment.all_user_control.UC_CustomerRegistration.resources
+C:\Users\Castro\source\repos\Hotel managment\Hotel managment\obj\Debug\Hotel_managment.all_user_control.UC_CustomerCheckOut.resources
+C:\Users\Castro\source\repos\Hotel managment\Hotel managment\obj\Debug\Hotel_managment.all_user_control.CustomerDetails.resources
+C:\Users\Castro\source\repos\Hotel managment\Hotel managment\obj\Debug\Hotel_managment.all_user_control.UC_Employee.resources
